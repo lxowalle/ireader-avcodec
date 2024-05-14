@@ -5,3 +5,5 @@ debug.linux
 release.linux
 Debug
 Release
+*/debug.*
+*/release.*
